@@ -1,4 +1,5 @@
 public class LengthOfLastWord {
+    // what is this nothing new change
 
     public static int lengthOfLastWord(String s) {
         s=s.trim();
