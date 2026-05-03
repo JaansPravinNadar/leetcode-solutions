@@ -6,7 +6,7 @@ My journey solving Data Structures and Algorithms problems on LeetCode using Jav
 
 | Difficulty | Solved | 
 |------------|--------|
-| Easy       | 21     |
+| Easy       | 22     |
 | Medium     | 5      |
 | Hard       | 0      | 
 
