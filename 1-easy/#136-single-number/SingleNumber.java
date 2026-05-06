@@ -1,11 +1,11 @@
-import java.util.HashMap;
+//import java.util.HashMap;
 
 public class SingleNumber {
 
     public static int singleNumber(int[] nums) {
 
         // Step 1: Count frequency of each element
-        HashMap <Integer,Integer> map=new HashMap<>();
+       /*  HashMap <Integer,Integer> map=new HashMap<>();
         for(int num:nums){
             map.put(num,map.getOrDefault(num,0)+1);
         }
@@ -14,7 +14,12 @@ public class SingleNumber {
                 return num;
             }
         }
-        return -1;
+        return -1;*/
+        int result=0;
+        for(int num:nums){
+            result=result^num;
+        }
+        return result;
     }
 
     public static void main(String[] args) {
