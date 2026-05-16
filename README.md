@@ -8,7 +8,7 @@ My journey solving Data Structures and Algorithms problems on LeetCode using Jav
 |------------|--------|
 | Easy       | 29     |
 | Medium     | 7      |
-| Hard       | 0      | 
+| Hard       | 1      | 
 
 ## 🎯 Goal
 - Master DSA concepts
